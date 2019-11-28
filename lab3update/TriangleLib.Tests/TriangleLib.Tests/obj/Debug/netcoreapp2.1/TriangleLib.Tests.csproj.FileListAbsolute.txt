@@ -1,0 +1,17 @@
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.AssemblyInfoInputs.cache
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.AssemblyInfo.cs
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.Tests.deps.json
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.Tests.runtimeconfig.json
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.Tests.runtimeconfig.dev.json
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.Tests.dll
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.Tests.pdb
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.dll
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\bin\Debug\netcoreapp2.1\TriangleLib.pdb
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.csprojAssemblyReference.cache
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.csproj.CopyComplete
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.dll
+C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib.Tests\TriangleLib.Tests\obj\Debug\netcoreapp2.1\TriangleLib.Tests.pdb
