@@ -1,9 +1,0 @@
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\bin\Debug\netstandard2.0\TriangleLib.deps.json
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\bin\Debug\netstandard2.0\TriangleLib.dll
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\bin\Debug\netstandard2.0\TriangleLib.pdb
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\obj\Debug\netstandard2.0\TriangleLib.csprojAssemblyReference.cache
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\obj\Debug\netstandard2.0\TriangleLib.csproj.CoreCompileInputs.cache
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\obj\Debug\netstandard2.0\TriangleLib.AssemblyInfoInputs.cache
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\obj\Debug\netstandard2.0\TriangleLib.AssemblyInfo.cs
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\obj\Debug\netstandard2.0\TriangleLib.dll
-C:\Users\nooke\Desktop\labs\lab 3 update\TriangleLib\TriangleLib\obj\Debug\netstandard2.0\TriangleLib.pdb
