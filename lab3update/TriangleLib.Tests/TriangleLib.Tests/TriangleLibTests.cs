@@ -25,18 +25,7 @@ namespace TriangleLib.Tests
             Assert.IsTrue(Triangle.IsTriangle(3, 4, 5));
         }
 
-        [TestMethod]
-        public void Similar_Triangles_TrueReturned()
-        {
-            int side_a = 10, side_b = 12, side_c = 20, step = 5;
-            const int TRIANGLES_NUMBER = 100;
-            for (int i = 0; i < TRIANGLES_NUMBER; i++)
-            {
-                Assert.IsTrue(Triangle.IsTriangle(side_a, side_b, side_c));
-                side_a += step; side_b += step; side_c += step;
-            }
-        }
-
+        
         [TestMethod]
         public void Triangle_WithNullSides_FalseReturned()
         {
@@ -44,7 +33,7 @@ namespace TriangleLib.Tests
         }
 
         [TestMethod]
-        public void Triangle_WithNegativeSides_FalseReturned()
+        public void triangle_WithNegativeSides_FalseReturned()
         {
             Assert.IsFalse(Triangle.IsTriangle(-5, -5, 8));
         }
